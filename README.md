@@ -2,6 +2,7 @@ The goal of this project is to complement programming practices with a scenario 
  the reality of the Data Science profession, in which the requirements are poorly (or not at
  all) defined, and to provide data science solutions in an area of analytical marketing and
  business development.
+ 
  Task 1: Data Analysis: It starts from the dataset provided for the development of data of
  EasyMoney. The objective is to analyze and explore the data we have from a statistical and
  business perspective, to obtain an adequate business vision and in the future be able
